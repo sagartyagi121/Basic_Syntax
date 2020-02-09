@@ -3,9 +3,9 @@ syntax to write issues and README in GitHub
 
 # This is the biggest heading 
 ## Smaller 
-### The more the number of hash'#' the smaller the heading text
+### The more the number of hash '#' the smaller the heading text
 
-**Use two '*' with texxt, contol + B can also be used** 
+**Use two '\*' with text, contol + B can also be used** 
 
 __This is also bold, using two underscore '__' in between text__
 
