@@ -86,6 +86,8 @@ Use ':' for emoji list and the [cheatsheet for emojis](https://www.webfx.com/too
 
 For Detailed cotent [click here](https://daringfireball.net/projects/markdown/syntax#backslash).
 
+<img src='./docs/logo.png' alt="logo image"> 
+
 
 
 
