@@ -46,7 +46,7 @@ A link can be created using square brackets with text and link in adjacent curly
 
 #### Relative link 
 
-Used to define path of a file in directory. eg: [Got to File by clicking here](docs/example.txt) 
+Used to define path of a file in directory. eg: [Got to File by clicking here](./docs/example.txt) 
 Use square bracket for description text and normal braces for link. \[Text](link)
 
 #### Unordered List 
@@ -85,6 +85,8 @@ Use ':' for emoji list and the [cheatsheet for emojis](https://www.webfx.com/too
 </table>
 
 For Detailed cotent [click here](https://daringfireball.net/projects/markdown/syntax#backslash).
+
+<img src='./docs/logo.png' alt="logo image"> 
 
 
 
