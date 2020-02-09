@@ -46,7 +46,7 @@ A link can be created using square brackets with text and link in adjacent curly
 
 #### Relative link 
 
-Used to define path of a file in directory. eg: [Got to File by clicking here](docs/example.txt) 
+Used to define path of a file in directory. eg: [Got to File by clicking here](./docs/example.txt) 
 Use square bracket for description text and normal braces for link. \[Text](link)
 
 #### Unordered List 
