@@ -15,7 +15,7 @@ __This is also bold, using two underscore in between text__
 
 **We can have bold with _italic_ in between** 
 
-***Three start '*' for all bold and italic 
+***Three start '\*' for all bold and italic*** 
 
 Gandhiji Said :
 
