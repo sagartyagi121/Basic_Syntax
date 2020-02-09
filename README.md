@@ -63,9 +63,8 @@ Use '\*' or '-' for unordered list. Note : Leave space after \* to avaoid italic
 3. For ordered list 
 4. eg: 1. Text 1 \n 2. Text 2
 5. Listed Item 
- - Nested list 
-  - Use space on next line with '-' for nested listing. 
-   * More nesting 
+
+` Need to add nested list here `
    
 - [ ] ***This is a task list 
 - [x] This is a complete task. Use \[x] to mark completed task   
