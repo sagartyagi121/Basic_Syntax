@@ -7,7 +7,7 @@ syntax to write issues and README in GitHub
 
 **Use two '\*' with text, contol + B can also be used** 
 
-__This is also bold, using two underscore '__' in between text__
+__This is also bold, using two underscore in between text__
 
 *This is italic text using single '\*'* also use _Single Underscore for italic text_
 
