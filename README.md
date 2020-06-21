@@ -66,7 +66,7 @@ Use '\*' or '-' for unordered list. Note : Leave space after \* to avaoid italic
 
 ` Need to add nested list here `
    
-- [ ] ***This is a task list 
+- [ ] This is a task list 
 - [x] This is a complete task. Use \[x] to mark completed task   
 - [ ] This is not completed. Use \[ ] for unmarked task. 
 
